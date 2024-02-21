@@ -1,11 +1,14 @@
 h1{
     font-family: 'Courier New', Courier, monospace;
     color: aliceblue;
+    font-weight: 700;
+    font-size: 120px;
+    
 
 }
 
 Body{ 
 
     background-color: black;
-    
+
 }
